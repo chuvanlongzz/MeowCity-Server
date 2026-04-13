@@ -13,4 +13,4 @@ files {
     'anh6.jpg',
     'anh7.jpg',
 } 
-sv long
+sv long.
