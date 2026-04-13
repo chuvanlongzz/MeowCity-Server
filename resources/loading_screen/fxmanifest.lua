@@ -12,4 +12,4 @@ files {
     'anh5.jpg',
     'anh6.jpg',
     'anh7.jpg',
-}
+} sv long
