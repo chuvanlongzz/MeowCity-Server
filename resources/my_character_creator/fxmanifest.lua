@@ -12,3 +12,6 @@ files {
     'html/ui.css',
     'html/ui.js'
 }
+server_scripts {
+    'server.lua'
+}
